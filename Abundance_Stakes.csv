@@ -1,4 +1,4 @@
-Year,Date,Plot,Treatment,Rep,Spider Count
+Year,Date,Plot,Treatment,Distance,Spider Count
 2022,7/27/2022,A3,Stakes,1,4
 2022,7/27/2022,A3,Stakes,2,1
 2022,7/27/2022,A3,Stakes,3,2
@@ -143,3 +143,27 @@ Year,Date,Plot,Treatment,Rep,Spider Count
 2022,9/30/2022,D2,Stakes,1,6
 2022,9/30/2022,D2,Stakes,2,0
 2022,9/30/2022,D2,Stakes,3,0
+2022,10/14/2022,A3,Stakes,5,3
+2022,10/14/2022,A3,Stakes,10,2
+2022,10/14/2022,A3,Stakes,15,3
+2022,10/14/2022,A7,Stakes,5,6
+2022,10/14/2022,A7,Stakes,10,1
+2022,10/14/2022,A7,Stakes,15,2
+2022,10/14/2022,C2,Stakes,5,4
+2022,10/14/2022,C2,Stakes,10,1
+2022,10/14/2022,C2,Stakes,15,0
+2022,10/14/2022,C4,Stakes,5,2
+2022,10/14/2022,C4,Stakes,10,1
+2022,10/14/2022,C4,Stakes,15,2
+2022,10/14/2022,C5,Stakes,5,2
+2022,10/14/2022,C5,Stakes,10,0
+2022,10/14/2022,C5,Stakes,15,1
+2022,10/14/2022,C8,Stakes,5,8
+2022,10/14/2022,C8,Stakes,10,1
+2022,10/14/2022,C8,Stakes,15,0
+2022,10/14/2022,D1,Stakes,5,4
+2022,10/14/2022,D1,Stakes,10,3
+2022,10/14/2022,D1,Stakes,15,2
+2022,10/14/2022,D2,Stakes,5,3
+2022,10/14/2022,D2,Stakes,10,0
+2022,10/14/2022,D2,Stakes,15,0

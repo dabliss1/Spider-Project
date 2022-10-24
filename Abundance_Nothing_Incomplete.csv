@@ -1,4 +1,4 @@
-Year,Date,Plot,Treatment,Rep,Spider Count
+Year,Date,Plot,Treatment,Distance,Spider Count
 2022,7/27/2022,A1,Nothing,1,2
 2022,7/27/2022,A1,Nothing,2,1
 2022,7/27/2022,A1,Nothing,3,4
@@ -143,3 +143,27 @@ Year,Date,Plot,Treatment,Rep,Spider Count
 2022,9/30/2022,D6,Nothing,1,0
 2022,9/30/2022,D6,Nothing,2,0
 2022,9/30/2022,D6,Nothing,3,0
+2022,10/14/2022,A1,Nothing,5,1
+2022,10/14/2022,A1,Nothing,10,1
+2022,10/14/2022,A1,Nothing,15,0
+2022,10/14/2022,A8,Nothing,5,1
+2022,10/14/2022,A8,Nothing,10,1
+2022,10/14/2022,A8,Nothing,15,1
+2022,10/14/2022,B4,Nothing,5,1
+2022,10/14/2022,B4,Nothing,10,2
+2022,10/14/2022,B4,Nothing,15,0
+2022,10/14/2022,B7,Nothing,5,2
+2022,10/14/2022,B7,Nothing,10,1
+2022,10/14/2022,B7,Nothing,15,0
+2022,10/14/2022,C7,Nothing,5,0
+2022,10/14/2022,C7,Nothing,10,0
+2022,10/14/2022,C7,Nothing,15,0
+2022,10/14/2022,D4,Nothing,5,1
+2022,10/14/2022,D4,Nothing,10,2
+2022,10/14/2022,D4,Nothing,15,1
+2022,10/14/2022,D5,Nothing,5,2
+2022,10/14/2022,D5,Nothing,10,0
+2022,10/14/2022,D5,Nothing,15,0
+2022,10/14/2022,D6,Nothing,5,1
+2022,10/14/2022,D6,Nothing,10,0
+2022,10/14/2022,D6,Nothing,15,0
